@@ -18,4 +18,4 @@ A simple Rock Paper Scissors game built as part of the freeCodeCamp curriculum.
 - Updating the DOM dynamically.
 
 ## 🔗 Live Demo
-[Play the Game](YOUR-LIVE-LINK)
+[Play the Game](https://shaiksajida124.github.io/rock-paper-scissors/)
